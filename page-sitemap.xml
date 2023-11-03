@@ -104,52 +104,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./curso-elevamo/index.html</loc>
-		<lastmod>2023-10-24T21:29:59+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/Grupo-16-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/Grupo-16.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/Rectangulo-2375.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/Grupo-6987.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/curso-elevamo-11.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Grupo-6992.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/elevamo-Grupo-6989-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/elevamo-Grupo-6989-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/elevamo-Grupo-6989-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/elevamo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./elevamo/index.html</loc>
 		<lastmod>2023-10-26T16:31:56+00:00</lastmod>
 		<image:image>
@@ -361,6 +315,52 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Screenshot_5_1698183230123.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./curso-elevamo/index.html</loc>
+		<lastmod>2023-11-03T15:33:17+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/Grupo-16-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/Grupo-16.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/Rectangulo-2375.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/Grupo-6987.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/curso-elevamo-11.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Grupo-6992.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/elevamo-Grupo-6989-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/elevamo-Grupo-6989-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/elevamo-Grupo-6989-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/elevamo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
