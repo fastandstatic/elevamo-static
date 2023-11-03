@@ -67,43 +67,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/portafolio/</loc>
-		<lastmod>2023-10-24T16:23:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-7030.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/coachingvid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/coachingvid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/elevamo/</loc>
 		<lastmod>2023-10-26T16:31:56+00:00</lastmod>
 		<image:image>
@@ -318,8 +281,45 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/portafolio/</loc>
+		<lastmod>2023-11-03T19:50:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-7030.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/coachingvid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/coachingvid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/curso-elevamo/</loc>
-		<lastmod>2023-11-03T16:33:58+00:00</lastmod>
+		<lastmod>2023-11-03T19:50:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-16-1.png</image:loc>
 		</image:image>
