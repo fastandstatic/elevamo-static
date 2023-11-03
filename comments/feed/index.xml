@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en elevamo	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Nov 2023 16:16:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
