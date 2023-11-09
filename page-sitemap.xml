@@ -98,37 +98,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/curso-elevamo/</loc>
-		<lastmod>2023-11-09T14:49:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-16.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Rectangulo-2375.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/curso-elevamo-11.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/elevamo/</loc>
 		<lastmod>2023-11-09T16:18:37+00:00</lastmod>
 		<image:image>
@@ -343,6 +312,37 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot_5_1698183230123.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/curso-elevamo/</loc>
+		<lastmod>2023-11-09T21:42:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-16.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Rectangulo-2375.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/curso-elevamo-11.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6885.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
