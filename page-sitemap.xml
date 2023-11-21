@@ -83,8 +83,42 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/portafolio/</loc>
+		<lastmod>2023-11-20T15:59:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Grupo-6998-qf2p6cb0giydq3jqnsg00sb7aiwtjrzg683pfwjfl0.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Grupo-6998-qf2p6cb0giydq3jqnsg00sb7aiwtjrzg683pfwjfl0.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/elevamo/</loc>
-		<lastmod>2023-11-20T15:21:24+00:00</lastmod>
+		<lastmod>2023-11-21T19:44:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-16-1.png</image:loc>
 		</image:image>
@@ -297,40 +331,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot_5_1698183230123.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/portafolio/</loc>
-		<lastmod>2023-11-20T15:59:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Grupo-6998-qf2p6cb0giydq3jqnsg00sb7aiwtjrzg683pfwjfl0.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Grupo-6998-qf2p6cb0giydq3jqnsg00sb7aiwtjrzg683pfwjfl0.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
