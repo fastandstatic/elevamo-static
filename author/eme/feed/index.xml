@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>elevamo</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>eme, Author at elevamo</title>
+	<atom:link href="/author/eme/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/eme/</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Nov 2023 13:57:12 +0000</lastBuildDate>
 	<language>es</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>/wp-content/uploads/2023/09/Trazado-280.png</url>
-	<title>elevamo</title>
-	<link>/</link>
+	<title>eme, Author at elevamo</title>
+	<link>/author/eme/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-11-17T20:05:31+00:00</lastmod>
+		<lastmod>2023-11-24T13:42:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/interior-vida-mas-feliz1.webp</image:loc>
 		</image:image>
@@ -77,40 +77,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/portafolio/</loc>
-		<lastmod>2023-11-20T15:59:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Grupo-6998-qf2p6cb0giydq3jqnsg00sb7aiwtjrzg683pfwjfl0.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Grupo-6998-qf2p6cb0giydq3jqnsg00sb7aiwtjrzg683pfwjfl0.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-online.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
@@ -331,6 +297,40 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Screenshot_5_1698183230123.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/portafolio/</loc>
+		<lastmod>2023-11-24T13:54:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Grupo-6992.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/team-working-together-project-scaled-qfu2oqjcvg7bv776r0s45fq9vgf0edr6bz7leydaqs.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/medium-shot-smiley-woman-working-from-home-qfu2pjocrbb7v40v0vdjsqdkaefe0zyurzfnaj63dw.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/team-working-together-project-scaled-qfu2oqjcvg7bv776r0s45fq9vgf0edr6bz7leydaqs.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/medium-shot-smiley-woman-working-from-home-qfu2pjocrbb7v40v0vdjsqdkaefe0zyurzfnaj63dw.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/charlas-emp-y-insti-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Taller-en-vivo-vid.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/elevamo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
